@@ -1,4 +1,5 @@
 *.ipynb
+.venv
 .ipynb_checkpoints
 .data
 *.pt
